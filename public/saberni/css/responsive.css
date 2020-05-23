@@ -1,0 +1,160 @@
+@media only screen and (max-width: 1366px) and (min-width: 1300px)  {
+		.logores{
+			margin-left: 600px;
+		}
+	
+		.Project {
+		  background-color: #c0c1c342; 
+		  transform: rotateX(45deg);
+		  border: none;
+		  color: white;
+		  padding: 10px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 20px;
+		  margin: -5px -22px;
+		  cursor: pointer;
+		  border-radius: 13px;
+		}
+	}
+
+	@media only screen and (max-width: 1299px) and (min-width: 1100px)  {
+		.logores{
+			margin-left: 435px;
+		}
+	
+		.Project {
+		  background-color: #c0c1c342; 
+		  transform: rotateX(45deg);
+		  border: none;
+		  color: white;
+		  padding: 10px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 20px;
+		  margin: -5px -22px;
+		  cursor: pointer;
+		  border-radius: 13px;
+		}
+	}
+
+
+	@media only screen and (max-width: 400px) and (min-width: 300px)  {
+	
+		.Project {
+		  background-color: #c0c1c342; 
+		  transform: rotateX(45deg);
+		  border: none;
+		  color: white;
+		  padding: 10px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 17px;
+		  margin-right: 21px;
+		  padding: 2px;
+		  cursor: pointer;
+		  border-radius: 13px;
+		}
+
+	}
+
+	@media only screen and (max-width: 500px) and (min-width: 401px)  {
+	
+		.Project {
+		  background-color: #c0c1c342; 
+		  transform: rotateX(45deg);
+		  border: none;
+		  color: white;
+		  padding: 10px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 17px;
+		  margin: -40px 6px;
+		  cursor: pointer;
+		  border-radius: 13px;
+		}
+
+	}
+
+	@media only screen and (max-width: 667px) and (min-width: 501px)  {
+	
+		.Project {
+		  background-color: #c0c1c342; 
+		  transform: rotateX(45deg);
+		  border: none;
+		  color: white;
+		  padding: 10px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 17px;
+		  margin: -40px 6px;
+		  cursor: pointer;
+		  border-radius: 13px;
+		}
+
+	}
+
+	@media only screen and (max-width: 767px) and (min-width: 501px)  {
+	
+		.Project {
+		  background-color: #c0c1c342; 
+		  transform: rotateX(45deg);
+		  border: none;
+		  color: white;
+		  padding: 10px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 17px;
+		  margin: -40px 6px;
+		  cursor: pointer;
+		  border-radius: 13px;
+		}
+
+	}
+
+	@media only screen and (max-width: 1000px) and (min-width: 768px)  {
+	
+		.Project {
+		  background-color: #c0c1c342; 
+		  transform: rotateX(45deg);
+		  border: none;
+		  color: white;
+		  padding: 10px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 17px;
+		  margin: -40px 6px;
+		  cursor: pointer;
+		  border-radius: 13px;
+		}
+
+
+	}
+
+
+	@media only screen and (max-width: 1099px) and (min-width: 1001px)  {
+	
+		.Project {
+		  background-color: #c0c1c342; 
+		  transform: rotateX(45deg);
+		  border: none;
+		  color: white;
+		  padding: 10px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 17px;
+		  margin: -40px 6px;
+		  cursor: pointer;
+		  border-radius: 13px;
+		}
+
+
+	}
